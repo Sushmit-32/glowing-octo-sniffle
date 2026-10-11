@@ -1,0 +1,8 @@
+NCT00000005:
+  - low_confidence:terminated_early
+NCT00000006:
+  - low_confidence:no_enrollment
+  - low_confidence:missing_results
+NCT00000014:
+  - low_confidence:terminated_early
+  - low_confidence:missing_results
